@@ -1,0 +1,3 @@
+5- wcat -b filename => give numbering to non-empty lines 
+8- wcat -s filename > filename2 =>get the file content of filename remove large spaces and save the output in filename2
+all other are working
